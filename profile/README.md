@@ -48,6 +48,6 @@ Our mission is transformation through deliberate design and engineering, ensurin
 ## 📬 Contact
 For inquiries, partnerships, or project discussions:  
 **Email:** agency@nuvic.org  
-**Website:** [nuvic.org](http://agency.nuvic.org)
+**Website:** [agency.nuvic.org](http://agency.nuvic.org)
 
 </div>
